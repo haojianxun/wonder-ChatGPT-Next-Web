@@ -1,4 +1,5 @@
 <div align="center">
+   
 <img src="./docs/images/icon.svg" alt="预览"/>
 
 <h1 align="center">NextChat</h1>
